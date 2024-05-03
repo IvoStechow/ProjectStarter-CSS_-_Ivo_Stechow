@@ -1,0 +1,62 @@
+/* Stildefinitionen für den Header */
+header {
+  background-color: #1a14ba; /* Hintergrundfarbe für den Header */
+  font-size: 18px; /* Schriftgröße im Header */
+}
+
+/* Grundlegende Schriftarten und Größen für den body */
+body {
+  font-family: Arial, sans-serif; /* Schriftart für den gesamten Inhalt */
+  font-size: 18px; /* Standard-Schriftgröße */
+  background-color: #fff; /* Hintergrundfarbe des gesamten Dokuments */
+}
+
+/* Stildefinitionen für die Navigationsleiste */
+nav {
+  background-color: #20b3db; /* Hintergrundfarbe der Navigationsleiste */
+}
+
+nav a {
+  display: inline-block; /* Jedes Link-Element wird wie ein Block behandelt, der in einer Zeile angezeigt wird */
+  color: white; /* Farbe des Textes */
+  padding: 10px 15px; /* Polsterung um den Text */
+  text-decoration: none; /* Keine Unterstreichung des Links */
+}
+
+/* Stildefinitionen für den Hauptinhalt */
+main {
+  background-color: #d8d81f; /* Hintergrundfarbe für den Hauptinhalt */
+  font-size: 18px; /* Schriftgröße im Hauptbereich */
+  padding: 5px 10px; /* Polsterung um den Text */
+}
+
+/* Stildefinitionen für die Fußzeile */
+footer {
+  background-color: #1a14ba; /* Hintergrundfarbe der Fußzeile */
+  color: white; /* Farbe des Textes */
+  padding: 5px 10px; /* Polsterung um den Text */
+}
+footer a {
+  display: inline-block; /* Jedes Link-Element wird wie ein Block behandelt, der in einer Zeile angezeigt wird */
+  color: rgb(174, 207, 227); /* Farbe des Textes */
+}
+
+/* Stildefinitionen für Listen-Elemente */
+li {
+  display: inline; /* Anzeigeart der Listenpunkte */
+  width: 100%; /* Breite der Listenpunkte */
+}
+
+/* Stildefinitionen für Überschriften */
+h1 {
+  text-align: center; /* Textausrichtung der Überschrift */
+  font-family: Arial, sans-serif; /* Schriftart der Überschrift */
+  color: #ffd900; /* Farbe der Überschrift */
+  font-size: 26px; /* Schriftgröße der Überschrift */
+  padding: 30px 15px; /* Polsterung um den Text */
+}
+
+/* Stildefinitionen für Absätze */
+p {
+  line-height: 1.6; /* Zeilenhöhe der Absätze */
+}
